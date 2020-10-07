@@ -1,0 +1,133 @@
+body{font-family: "Hiragino Kaku Gothic ProN","メイリオ",sans-serif;
+    font-size: 20px;
+}
+
+.logo{
+    width:500px
+}
+
+header .menu{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+}
+
+header ul{
+    list-style-type:  none;
+    line-height: 60px;
+}
+
+header ul li{
+    float: left;
+    padding-left: 50px;
+    padding-right: 30px;
+    color: white;
+}
+main{
+    clear: left;
+}
+
+.main-container{width: 100%;
+    
+}
+
+.left{float: left;
+    width: 65%;
+    margin-left: 10px;
+}
+
+.left h1{
+    border-bottom: 1px solid black;
+    border-left: 3px solid black;
+    margin-top: 30px;
+    padding-left: 10px;
+}
+
+
+.form h2{ 
+border-left: 4px red solid;
+padding-top: 5px;
+padding-left: 15px;
+    margin-left: 10px;
+font-size: 20px;
+}
+
+.form{margin: 0 auto;
+background-color: #fbfbfb;
+border: 3px #ebebeb solid;
+    border-radius: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+form div{
+    padding: 15px;
+}
+
+.text,textarea{
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color: #999;
+    background: #fff;
+}
+
+.submit{
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+}
+
+.kijinonaka{
+    margin: 0 auto;
+background-color: #fbfbfb;
+border: 3px #ebebeb solid;
+    border-radius: 10px;
+    width: 97%;
+    margin-bottom: 10px;
+    padding-left: 15px;
+}
+.kijinonaka h3{
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-right: 25px;
+    border-bottom: 1px solid lightgray;
+}
+
+.torisugari{
+    font-size: 15px;
+}
+
+
+.right{float: left;
+width: 30%;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.right ul{
+    list-style-type: none;
+}
+
+.right li{
+    line-height: 190%;
+margin-left: -20px;
+}
+
+.right h2{border-bottom: 1px dotted;
+}
+
+
+footer{
+    clear: left;
+    width: 100%;
+    height: 60px;
+    background-color: black;
+}
+
+footer p{
+    text-align: center;
+    color: white;
+    line-height: 60px;
+}
